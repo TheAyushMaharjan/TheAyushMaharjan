@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Flutter<br>I'm looking for improving my development skills.<br>I'm good with UI/UX 
+Full-stack Developer with extensive expertise in both front-end and back-end development. Skilled in building dynamic, user-centric websites and applications that deliver exceptional performance and usability. Passionate about crafting seamless user experiences through intuitive UI/UX design and implementing robust, scalable server-side solutions. Adept at leveraging the latest technologies and frameworks to create innovative digital solutions that meet both user needs and business goals.
 
 
 ## 🌐 Socials:
