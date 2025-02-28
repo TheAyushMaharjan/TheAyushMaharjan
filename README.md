@@ -1,7 +1,6 @@
 # 💫 About Me:
 Full-stack Developer with extensive expertise in both front-end and back-end development. Skilled in building dynamic, user-centric websites and applications that deliver exceptional performance and usability. Passionate about crafting seamless user experiences through intuitive UI/UX design and implementing robust, scalable server-side solutions. Adept at leveraging the latest technologies and frameworks to create innovative digital solutions that meet both user needs and business goals.
 
-
 ## 🌐 Socials:
 [![View My Instagram](https://img.shields.io/badge/View%20My%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=E4405F&colorB=EA4C89)](https://instagram.com/ayu._sh) 
 [![View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-28A745?style=for-the-badge&logo=github&logoColor=white&colorA=28A745&colorB=20C997)](https://ayushm.com.np)
