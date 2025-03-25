@@ -24,7 +24,7 @@ Full-stack Developer with extensive expertise in both front-end and back-end dev
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
@@ -33,6 +33,7 @@ Full-stack Developer with extensive expertise in both front-end and back-end dev
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40" alt="JavaScript logo" />
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" height="40" alt="TypeScript logo" />
 </div>
+
 
 
 
