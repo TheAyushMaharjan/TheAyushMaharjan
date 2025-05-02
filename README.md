@@ -3,12 +3,13 @@
 # 💫 About Me:
 Full-stack Developer with extensive expertise in both front-end and back-end development. Skilled in building dynamic, user-centric websites and applications that deliver exceptional performance and usability. Passionate about crafting seamless user experiences through intuitive UI/UX design and implementing robust, scalable server-side solutions. Adept at leveraging the latest technologies and frameworks to create innovative digital solutions that meet both user needs and business goals.
 
-Check out my [coding portfolio!][![Portfolio (LinkedIn Style)](https://img.shields.io/badge/Portfolio-%2300C16A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ayushm.com.np)
+Check out my Portfolio:  [![Portfolio (LinkedIn Style)](https://img.shields.io/badge/Portfolio-%2300C16A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ayushm.com.np)
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-maharjan-503037181/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayu._sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ayush-maharjan-503037181/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ayu._sh)
+
 
 
 # 💻 Tech Stack:
@@ -28,8 +29,6 @@ Libraries/Frameworks: ![ReactJS](https://img.shields.io/badge/react-%2320232a.sv
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-
 
 
 
